@@ -15,12 +15,12 @@ Proident id nisi irure pariatur ut nisi nulla culpa. Quis cillum nostrud officia
 
 Excepteur nostrud reprehenderit eu deserunt nostrud deserunt consectetur ipsum elit aute irure. Dolor exercitation officia eu consectetur sunt mollit deserunt. Pariatur do nulla nostrud et cupidatat pariatur quis culpa.
 
-image::cons_dog.jpg[]
+image::cons_dog.jpg[dog,200,200,align="left"]
 
 == Source code
 
 .First Hello Test
 [,haskell]
 ----
-include::example$hello.hs
+include::example$hello.hs[]
 ----
