@@ -1,6 +1,7 @@
-= Example Title
+= Introduction
 :description: A description of the page stored in an HTML meta tag.
 :sectanchors:
+:imagesdir: ./images
 :url-repo: https://github.com/PardusEidolon/antoraTemplate
 :page-tags: html,antora,asciidocs
 
@@ -13,3 +14,13 @@ Pariatur officia aliqua incididunt consectetur ad minim voluptate incididunt. Do
 Proident id nisi irure pariatur ut nisi nulla culpa. Quis cillum nostrud officia ullamco ad non. Exercitation Lorem laboris mollit officia consectetur aute minim ut reprehenderit in consequat proident ea sint. Commodo qui cillum exercitation elit mollit mollit aliqua exercitation cillum ex ullamco non sunt minim. Labore aute anim cupidatat deserunt eiusmod minim. Pariatur do aliqua enim culpa fugiat. Laboris eu laborum magna laboris do non nulla cillum veniam.
 
 Excepteur nostrud reprehenderit eu deserunt nostrud deserunt consectetur ipsum elit aute irure. Dolor exercitation officia eu consectetur sunt mollit deserunt. Pariatur do nulla nostrud et cupidatat pariatur quis culpa.
+
+image::cons_dog.jpg[]
+
+== Source code
+
+.First Hello Test
+[,haskell]
+----
+include::example$hello.hs
+----
