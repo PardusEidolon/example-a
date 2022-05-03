@@ -9,6 +9,6 @@ jobs:
         uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.REPO_ACCESS_TOKEN }}
-          repository: PardusEidolon/example-a
+          repository: PardusEidolon/antora-example-site
           event-type: antora-event-1
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
